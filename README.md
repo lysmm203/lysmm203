@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.learnenough.com/certificates/61dfc52c"><img src="https://www.learnenough.com/certificates/61dfc52c/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/61dfc52c"><img src="https://www.learnenough.com/certificates/61dfc52c/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
+<a href="https://www.learnenough.com/certificates/61dfc52c"><img src="https://www.learnenough.com/certificates/61dfc52c/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a> <br>
+
+<a href="https://www.learnenough.com/certificates/61dfc52c"><img src="https://www.learnenough.com/certificates/61dfc52c/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
